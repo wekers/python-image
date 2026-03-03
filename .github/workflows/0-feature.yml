@@ -4,7 +4,6 @@ on:
     branches:
       - 'feature**'
       - 'fix**'
-      - 'main'
 
 jobs:
   python-ci:
